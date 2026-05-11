@@ -11,10 +11,6 @@ enableRobotsTXT = true
 summaryLength = 30
 enableGitInfo = false
 
-[services]
-  [services.googleAnalytics]
-    ID = "G-XXXXXXXXXX" # Replace with your Google Analytics ID (optional)
-
 buildDrafts = false
 buildFuture = false
 

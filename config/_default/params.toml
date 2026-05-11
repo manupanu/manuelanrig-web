@@ -2,7 +2,7 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/configuration/#theme-parameters
 
-colorScheme = "blowfish"
+colorScheme = "ocean"
 defaultAppearance = "dark"
 autoSwitchAppearance = true
 
@@ -27,6 +27,19 @@ smartTOCHideUnfocusedChildren = false
 
 fingerprintAlgorithm = "sha512"
 
+[Author]
+  name = "Manuel Anrig"
+  image = "" # URL or path to avatar image (e.g. "/img/avatar.jpg")
+  headline = "" # Short tagline under your name
+  bio = "Welcome to my personal website!"
+  links = [
+    # { twitter = "https://twitter.com/username" },
+    # { github = "https://github.com/manupanu" },
+    # { linkedin = "https://linkedin.com/in/username" },
+    # { bluesky = "https://bsky.app/profile/username.bsky.social" },
+    # { email = "mailto:hello@manuelanrig.ch" },
+  ]
+
 [header]
   layout = "fixed"
 
@@ -38,7 +51,7 @@ fingerprintAlgorithm = "sha512"
   showScrollToTop = true
 
 [homepage]
-  layout = "custom"
+  layout = "profile"
   showRecent = false
   showRecentItems = 12
   showMoreLink = true
