@@ -2,7 +2,7 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/configuration/#theme-parameters
 
-colorScheme = "ocean"
+colorScheme = "forest"
 defaultAppearance = "dark"
 autoSwitchAppearance = true
 
@@ -11,7 +11,7 @@ enableSearch = true
 enableCodeCopy = true
 enableStructuredBreadcrumbs = true
 
-mainSections = ["docs"]
+mainSections = ["blog"]
 
 disableImageOptimization = false
 disableTextInHeader = false
@@ -29,14 +29,14 @@ fingerprintAlgorithm = "sha512"
 
 [Author]
   name = "Manuel Anrig"
-  image = "" # URL or path to avatar image (e.g. "/img/avatar.jpg")
-  headline = "" # Short tagline under your name
-  bio = "Welcome to my personal website!"
+  image = ""
+  headline = "Cyclist · Builder · Tech Enthusiast"
+  bio = "Racing road & gravel in Switzerland. Building bikes, software, and endurance."
   links = [
-    # { twitter = "https://twitter.com/username" },
+    # { strava = "https://www.strava.com/athletes/your-id" },
     # { github = "https://github.com/manupanu" },
-    # { linkedin = "https://linkedin.com/in/username" },
-    # { bluesky = "https://bsky.app/profile/username.bsky.social" },
+    # { linkedin = "https://linkedin.com/in/manuelanrig" },
+    # { instagram = "https://instagram.com/manuelanrig" },
     # { email = "mailto:hello@manuelanrig.ch" },
   ]
 
@@ -55,7 +55,7 @@ fingerprintAlgorithm = "sha512"
   showRecent = false
   showRecentItems = 12
   showMoreLink = true
-  showMoreLinkDest = "docs"
+  showMoreLinkDest = "blog"
   cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = true

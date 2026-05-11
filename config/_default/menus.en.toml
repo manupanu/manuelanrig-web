@@ -2,13 +2,25 @@
 # For more details: https://blowfish.page/docs/configuration/#main-menu
 
 [[main]]
-  identifier = "docs"
-  name = "Docs"
-  url = "/docs/"
+  identifier = "blog"
+  name = "Blog"
+  url = "/blog/"
   weight = 10
+
+[[main]]
+  identifier = "racing"
+  name = "Racing"
+  url = "/racing/"
+  weight = 20
+
+[[main]]
+  identifier = "resume"
+  name = "Resume"
+  url = "/resume/"
+  weight = 30
 
 [[main]]
   identifier = "tags"
   name = "Tags"
   url = "/tags/"
-  weight = 20
+  weight = 40
