@@ -6,51 +6,36 @@ showAuthor: false
 showTableOfContents: true
 ---
 
-## About
+{{< figure src="/img/verbier-ebike.jpeg" alt="E-Bike Racing in Verbier" caption="E-Bike Racing in Verbier" class="rounded-lg w-full mb-6" >}}
 
-I race road and gravel in Switzerland. I'm driven by the discipline of training, the rush of competition, and the camaraderie of the peloton.
+I started racing XC National Races at a young age, then moved to Downhill as a teenager. After a bigger break traveling, I began riding more Enduro and entered some races for fun. Now, I do whatever I feel like — from Road races to E-Bike events.
 
-I'm currently looking for **sponsors and partners** who share my values: hard work, consistency, and a love for the sport. If you're interested in supporting my racing journey, [get in touch](mailto:hello@manuelanrig.ch).
+## Best Results
 
----
+| Race | Year | Place |
+|------|------|-------|
+| Swiss Enduro Series: Leukerbad | 2024 | 5 |
+| Swiss Enduro Series: Einsiedeln (E-Bike) | 2024 | 3 |
+| We Are One Canadian Enduro League: Revelstoke | 2023 | 1 |
+| Swiss Enduro Series: Bike Kingdom | 2023 | 3 |
+| Swiss Enduro Series: Airolo | 2022 | 9 |
+| iXS Rookies Cup: Schönried (U19) | 2015 | 1 |
 
-## 2026 Season Ambitions
+{{< figure src="/img/revelstoke.jpeg" alt="Enduro in Revelstoke" caption="Enduro in Revelstoke" class="rounded-lg w-full mt-6" >}}
 
-- **Top 10** in the national Criterium Championships
-- **Complete** the Transalp Gravel Challenge (700 km, 12,000 m elevation)
-- **Podium** in at least two regional road races
-- **Build** a local weekly group ride to grow the community
+## 2026 Ambitions
 
----
-
-## Results
-
-### 2025
-
-| Race | Type | Result |
-|------|------|--------|
-| GP de la Ville | Road | 14th |
-| Mountain Classic | Road | 7th |
-| Gravel Express | Gravel | 5th (U23) |
-| Swiss Cyclocross Cup #3 | Cyclocross | 22nd |
-
-### 2024
-
-| Race | Type | Result |
-|------|------|--------|
-| Tour du Pays de Vaud | Road (Stage) | 18th GC |
-| Alpenbrevet | Gran Fondo | 12th |
-| Gravel Adventure Series #2 | Gravel | 8th |
-
----
+- **Podium** in at least one Swiss Enduro Series race
+- **Complete** a multi-day stage race
+- **Grow** into road racing and gravel events
+- **Document** more races with video and blog content
 
 ## Why Sponsor Me?
 
-I'm not just looking for financial support — I want to represent brands I genuinely believe in. In return I offer:
+I'm looking for partners who share my values: hard work, consistency, and a love for the sport. In return I offer visibility at races, authentic content, and genuine enthusiasm for products I believe in.
 
-- **Visibility** at races, on social media, and at community events
-- **Authentic content** — blog posts, photos, and videos from races and rides
-- **Product feedback** — I ride hard and put gear through real conditions
-- **Ambassadorship** — genuine enthusiasm for products I use and trust
+[Interested? Let's talk →](mailto:me@manuelanrig.ch)
 
-[Interested? Let's talk →](mailto:hello@manuelanrig.ch)
+---
+
+*Racing highlights from XC, Downhill, Enduro, Road, and E-Bike events. Always riding for the fun and challenge!*

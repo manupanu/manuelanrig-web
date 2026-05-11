@@ -1,9 +1,12 @@
 ---
-title: "Manuel Anrig — Cyclist & Builder"
-description: "Personal website of Manuel Anrig — bike racer, builder, and tech enthusiast"
+title: "Manuel Anrig — Tinkering with Tech. Racing on Two Wheels."
+description: "Personal website of Manuel Anrig — E-Bike Systems Quality at Specialized, racer, and builder"
 ---
 
-I'm a passionate cyclist who lives for the climb, the sprint, and the satisfaction of building something with my own hands. Whether it's crossing a finish line, piecing together a new wheelset, or debugging code at 2am — I give it everything.
+I'm Manuel Anrig, born in '97 and raised on two wheels. From soldering PCBs to shredding trails, my life is a mashup of tech tinkering and bike obsession.
 
-This is where I document the rides, the builds, and the projects.  
-If you're a potential sponsor or collaborator, welcome — let's talk.
+After an apprenticeship as an electronics technician and years in PCB design, I swapped the soldering iron for a torque wrench and chased my passion into the bike world. Now, at **Specialized**, I get to blend both — working on E-Bike System Quality by day and hacking on side projects or racing bikes on the weekend.
+
+This site is my corner for blog posts, code experiments, and ride results.
+
+Welcome.

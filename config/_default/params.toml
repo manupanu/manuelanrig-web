@@ -29,15 +29,14 @@ fingerprintAlgorithm = "sha512"
 
 [Author]
   name = "Manuel Anrig"
-  image = ""
-  headline = "Cyclist · Builder · Tech Enthusiast"
-  bio = "Racing road & gravel in Switzerland. Building bikes, software, and endurance."
+  image = "img/avatar.png"
+  headline = "Tinkering with Tech. Racing on Two Wheels. Living for the Ride"
+  bio = "Born in '97 and raised on two wheels. From soldering PCBs to shredding trails — my life is a mashup of tech tinkering and bike obsession. After an apprenticeship as an electronics technician and years in PCB design, I swapped the soldering iron for a torque wrench and chased my passion into the bike world. Now, at Specialized, I work on E-Bike System Quality by day and hack on side projects or race bikes on the weekend."
   links = [
-    # { strava = "https://www.strava.com/athletes/your-id" },
-    # { github = "https://github.com/manupanu" },
-    # { linkedin = "https://linkedin.com/in/manuelanrig" },
-    # { instagram = "https://instagram.com/manuelanrig" },
-    # { email = "mailto:hello@manuelanrig.ch" },
+    { email = "mailto:me@manuelanrig.ch" },
+    { github = "https://github.com/manupanu" },
+    { linkedin = "https://www.linkedin.com/in/manuel-anrig-891853188/" },
+    { instagram = "https://www.instagram.com/manuelanrig/" },
   ]
 
 [header]

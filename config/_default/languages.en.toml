@@ -5,6 +5,8 @@ label = "English"
 direction = "ltr"
 weight = 1
 contentDir = "content/en"
+title = "Manuel Anrig"
+copyright = "© 2026 — Manuel Anrig"
 
 [params]
   displayName = "EN"
