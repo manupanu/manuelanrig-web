@@ -1,0 +1,14 @@
+# -- Main menu --
+# For more details: https://blowfish.page/docs/configuration/#main-menu
+
+[[main]]
+  identifier = "docs"
+  name = "Docs"
+  url = "/docs/"
+  weight = 10
+
+[[main]]
+  identifier = "tags"
+  name = "Tags"
+  url = "/tags/"
+  weight = 20
