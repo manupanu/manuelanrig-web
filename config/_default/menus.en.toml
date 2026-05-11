@@ -19,8 +19,3 @@
   url = "/resume/"
   weight = 30
 
-[[main]]
-  identifier = "tags"
-  name = "Tags"
-  url = "/tags/"
-  weight = 40
